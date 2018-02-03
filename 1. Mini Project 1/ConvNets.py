@@ -116,3 +116,4 @@ for i in range(300):
 
 #%%
 regressor.evaluate(X_test, Y_test_transfo)
+regressor.save("C:/Users/Paul/Desktop/MSc DSBA/14. Deep Learning/2. Lab2/regressor1.h5")
